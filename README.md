@@ -24,6 +24,10 @@ The following notebook extensions are optional:
 * Table of contents from [MinRK's IPython notebook extensions](https://github.com/minrk/ipython_extensions "toc extension") (only needed for demonstration purposes)  
   [installation instructions](https://github.com/minrk/ipython_extensions "toc extension installation")
 
+Static view of the notebook on nbviewer:
+[http://nbviewer.ipython.org/github/gertingold/lit2015/blob/master/lit2015.ipynb](http://nbviewer.ipython.org/github/gertingold/lit2015/blob/master/lit2015.ipynb
+"nbview of lit2015")
+
 
 -------------
 
@@ -47,3 +51,7 @@ Die folgenden Notebook-Erweiterungen sind optional:
   [Installationshinweise](http://github.com/damianavila/RISE "RISE installation")
 * Table of contents from [MinRK's IPython notebook extensions](https://github.com/minrk/ipython_extensions "toc extension") (wird nur für Demonstrationszwecke benötigt)  
   [installationshinweise](https://github.com/minrk/ipython_extensions "toc extension installation")
+
+Statische Ansicht des Notebooks auf nbviewer:
+[http://nbviewer.ipython.org/github/gertingold/lit2015/blob/master/lit2015.ipynb](http://nbviewer.ipython.org/github/gertingold/lit2015/blob/master/lit2015.ipynb
+"nbview of lit2015")
