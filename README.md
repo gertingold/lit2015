@@ -28,6 +28,10 @@ Static view of the notebook on nbviewer:
 [http://nbviewer.ipython.org/github/gertingold/lit2015/blob/master/lit2015.ipynb](http://nbviewer.ipython.org/github/gertingold/lit2015/blob/master/lit2015.ipynb
 "nbview of lit2015")
 
+Static view in presentation mode on nbviewer:
+[http://nbviewer.ipython.org/format/slides/github/gertingold/lit2015/blob/master/lit2015.ipynb](http://nbviewer.ipython.org/format/slides/github/gertingold/lit2015/blob/master/lit2015.ipynb
+"nbview presentation of lit2015")
+
 
 -------------
 
@@ -55,3 +59,7 @@ Die folgenden Notebook-Erweiterungen sind optional:
 Statische Ansicht des Notebooks auf nbviewer:
 [http://nbviewer.ipython.org/github/gertingold/lit2015/blob/master/lit2015.ipynb](http://nbviewer.ipython.org/github/gertingold/lit2015/blob/master/lit2015.ipynb
 "nbview of lit2015")
+
+Statische Ansicht im Präsentationsmodus auf nbviewer:
+[http://nbviewer.ipython.org/format/slides/github/gertingold/lit2015/blob/master/lit2015.ipynb](http://nbviewer.ipython.org/format/slides/github/gertingold/lit2015/blob/master/lit2015.ipynb
+"nbview presentation of lit2015")
