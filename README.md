@@ -3,14 +3,17 @@ LIT 2015: Arbeiten mit dem IPython-Notebook
 
 *Die deutsche Beschreibung befindet sich in der zweiten Hälfte dieses Texts.*
 
-Talk at the [14. Augsburger Linux-Infotag 2015](http://www.luga.de/Aktionen/LIT-2015 "luga LIT 2015")
+Talks on the IPython notebook at 
+
+* [14. Augsburger Linux-Infotag 2015, March 28, 2015](http://www.luga.de/Aktionen/LIT-2015 "luga LIT 2015") (tag: lit2015)
+* Python and Plone User Group Meeting, June 2, 2015
 
 Requirements:
 -------------
 
 The following requirements are needed to display the IPython notebook `lit2015.ipynb`:
 
-* IPython Notebook (Version 3.0.0 was used in the talk)
+* IPython Notebook (Versions 3.0.0 and 3.1.0 were used in the talks)
 * NumPy and Matplotlib for some of the examples
 
 For an installation in a virtual environment, `requirements.txt` can be used.
@@ -35,14 +38,17 @@ Static view in presentation mode on nbviewer:
 
 -------------
 
-Vortrag auf dem [14. Augsburger Linux-Infotag 2015](http://www.luga.de/Aktionen/LIT-2015 "luga LIT 2015")
+Vorträge über das IPython-Notebook beim
+
+* [14. Augsburger Linux-Infotag 2015, 28. März 2015](http://www.luga.de/Aktionen/LIT-2015 "luga LIT 2015") (tag: lit2015)
+* Python and Plone User Group Meeting, 2. Juni 2015
 
 Voraussetzungen:
 ----------------
 
 Die folgende Software muss installiert sein, um das IPython-Notebook `lit2015.ipynb` darzustellen:
 
-* IPython Notebook (im Vortrag wurde die Version 3.0.0 benutzt)
+* IPython Notebook (in den Vorträgen wurden die Versionen 3.0.0 und 3.1.0 benutzt)
 * NumPy und Matplotlib werden für einige Beispiele benötigt
 
 Zur Installation in einem virtual environment kann `requirements.txt` benutzt werden.
