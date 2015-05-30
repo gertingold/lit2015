@@ -6,7 +6,7 @@ LIT 2015: Arbeiten mit dem IPython-Notebook
 Talks on the IPython notebook at 
 
 * [14. Augsburger Linux-Infotag 2015, March 28, 2015](http://www.luga.de/Aktionen/LIT-2015 "luga LIT 2015") (tag: lit2015)
-* Python and Plone User Group Meeting, June 2, 2015
+* Python and Plone User Group Meeting, Munich, June 2, 2015
 
 Requirements:
 -------------
@@ -41,7 +41,7 @@ Static view in presentation mode on nbviewer:
 Vorträge über das IPython-Notebook beim
 
 * [14. Augsburger Linux-Infotag 2015, 28. März 2015](http://www.luga.de/Aktionen/LIT-2015 "luga LIT 2015") (tag: lit2015)
-* Python and Plone User Group Meeting, 2. Juni 2015
+* Python and Plone User Group Meeting, München, 2. Juni 2015
 
 Voraussetzungen:
 ----------------
