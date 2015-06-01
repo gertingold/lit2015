@@ -11,7 +11,7 @@ Talks on the IPython notebook at
 Requirements:
 -------------
 
-The following requirements are needed to display the IPython notebook `lit2015.ipynb`:
+The following requirements are needed to display the IPython notebooks `pugmuc2015.ipynb` (english version) and `lit2015.ipynb` (german version):
 
 * IPython Notebook (Versions 3.0.0 and 3.1.0 were used in the talks)
 * NumPy and Matplotlib for some of the examples
@@ -46,7 +46,7 @@ Vorträge über das IPython-Notebook beim
 Voraussetzungen:
 ----------------
 
-Die folgende Software muss installiert sein, um das IPython-Notebook `lit2015.ipynb` darzustellen:
+Die folgende Software muss installiert sein, um die IPython-Notebooks `lit2015.ipynb` (deutsche Fassung) und `pugmuc2015.ipynb` (englische Fassung) darzustellen:
 
 * IPython Notebook (in den Vorträgen wurden die Versionen 3.0.0 und 3.1.0 benutzt)
 * NumPy und Matplotlib werden für einige Beispiele benötigt
