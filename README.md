@@ -59,7 +59,7 @@ Die folgenden Notebook-Erweiterungen sind optional:
   [Installationshinweise](http://ipython.org/ipython-doc/stable/install/install.html#mathjax "mathjax installation")
 * [RISE](http://github.com/damianavila/RISE "RISE") (wird nur benötigt, um das IPython-Notebook als Präsentation darzustellen)  
   [Installationshinweise](http://github.com/damianavila/RISE "RISE installation")
-* Table of contents from [MinRK's IPython notebook extensions](https://github.com/minrk/ipython_extensions "toc extension") (wird nur für Demonstrationszwecke benötigt)  
+* Table of contents aus [MinRK's IPython notebook extensions](https://github.com/minrk/ipython_extensions "toc extension") (wird nur für Demonstrationszwecke benötigt)  
   [installationshinweise](https://github.com/minrk/ipython_extensions "toc extension installation")
 
 Statische Ansicht des Notebooks auf nbviewer (deutsche Fassung):
