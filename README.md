@@ -1,12 +1,12 @@
-LIT 2015: Arbeiten mit dem IPython-Notebook
-===========================================
+LIT 2015: Arbeiten mit dem IPython-Notebook / Working with the IPython notebook
+===============================================================================
 
 *Die deutsche Beschreibung befindet sich in der zweiten Hälfte dieses Texts.*
 
 Talks on the IPython notebook at 
 
-* [14. Augsburger Linux-Infotag 2015, March 28, 2015](http://www.luga.de/Aktionen/LIT-2015 "luga LIT 2015") ([tag: lit2015](https://github.com/gertingold/lit2015/tree/lit2015))
-* Python and Plone User Group Meeting, Munich, June 2, 2015
+* [14. Augsburger Linux-Infotag 2015, March 28, 2015 (in German)](http://www.luga.de/Aktionen/LIT-2015 "luga LIT 2015") ([tag: lit2015](https://github.com/gertingold/lit2015/tree/lit2015))
+* Python and Plone User Group Meeting, Munich, June 2, 2015 (in English)
 
 Requirements:
 -------------
@@ -27,21 +27,21 @@ The following notebook extensions are optional:
 * Table of contents from [MinRK's IPython notebook extensions](https://github.com/minrk/ipython_extensions "toc extension") (only needed for demonstration purposes)  
   [installation instructions](https://github.com/minrk/ipython_extensions "toc extension installation")
 
-Static view of the notebook on nbviewer:
-[http://nbviewer.ipython.org/github/gertingold/lit2015/blob/master/lit2015.ipynb](http://nbviewer.ipython.org/github/gertingold/lit2015/blob/master/lit2015.ipynb
-"nbview of lit2015")
+Static view of the notebook on nbviewer (english version):
+[http://nbviewer.ipython.org/github/gertingold/lit2015/blob/master/pugmuc2015.ipynb](http://nbviewer.ipython.org/github/gertingold/lit2015/blob/master/pugmuc2015.ipynb
+"nbview of pugmuc2015")
 
-Static view in presentation mode on nbviewer:
-[http://nbviewer.ipython.org/format/slides/github/gertingold/lit2015/blob/master/lit2015.ipynb](http://nbviewer.ipython.org/format/slides/github/gertingold/lit2015/blob/master/lit2015.ipynb
-"nbview presentation of lit2015")
+Static view in presentation mode on nbviewer (english version):
+[http://nbviewer.ipython.org/format/slides/github/gertingold/lit2015/blob/master/pugmuc2015.ipynb](http://nbviewer.ipython.org/format/slides/github/gertingold/lit2015/blob/master/pugmuc2015.ipynb
+"nbview presentation of pugmuc2015")
 
 
 -------------
 
 Vorträge über das IPython-Notebook beim
 
-* [14. Augsburger Linux-Infotag 2015, 28. März 2015](http://www.luga.de/Aktionen/LIT-2015 "luga LIT 2015") ([tag: lit2015](https://github.com/gertingold/lit2015/tree/lit2015))
-* Python and Plone User Group Meeting, München, 2. Juni 2015
+* [14. Augsburger Linux-Infotag 2015, 28. März 2015 (in Deutsch)](http://www.luga.de/Aktionen/LIT-2015 "luga LIT 2015") ([tag: lit2015](https://github.com/gertingold/lit2015/tree/lit2015))
+* Python and Plone User Group Meeting, München, 2. Juni 2015 (in Englisch)
 
 Voraussetzungen:
 ----------------
@@ -62,10 +62,10 @@ Die folgenden Notebook-Erweiterungen sind optional:
 * Table of contents from [MinRK's IPython notebook extensions](https://github.com/minrk/ipython_extensions "toc extension") (wird nur für Demonstrationszwecke benötigt)  
   [installationshinweise](https://github.com/minrk/ipython_extensions "toc extension installation")
 
-Statische Ansicht des Notebooks auf nbviewer:
+Statische Ansicht des Notebooks auf nbviewer (deutsche Fassung):
 [http://nbviewer.ipython.org/github/gertingold/lit2015/blob/master/lit2015.ipynb](http://nbviewer.ipython.org/github/gertingold/lit2015/blob/master/lit2015.ipynb
 "nbview of lit2015")
 
-Statische Ansicht im Präsentationsmodus auf nbviewer:
+Statische Ansicht im Präsentationsmodus auf nbviewer (deutsche Fassung):
 [http://nbviewer.ipython.org/format/slides/github/gertingold/lit2015/blob/master/lit2015.ipynb](http://nbviewer.ipython.org/format/slides/github/gertingold/lit2015/blob/master/lit2015.ipynb
 "nbview presentation of lit2015")
